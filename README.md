@@ -1,4 +1,4 @@
-Requires .NET Framework 4.8.1 and [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) as a dependency.
+Requires [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) as a dependency.
 
 Example of use:
 ```csharp
